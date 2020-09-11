@@ -212,7 +212,7 @@ We're calling our method with the array of names as an argument and accompanying
 
 #### Step 5: Passing our test
 
-Go ahead and run the test suite by typing `learn` into your terminal in this lesson's directory. You'll see that our test expects us to return the original array, but our method is currently returning `nil`:
+Go ahead and run the test suite by typing `learn test` into your terminal in this lesson's directory. You'll see that our test expects us to return the original array, but our method is currently returning `nil`:
 
 ```
 Failures:
